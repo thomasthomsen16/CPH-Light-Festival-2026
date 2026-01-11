@@ -2,8 +2,8 @@
 
 An interactive audiovisual installation for Copenhagen Light Festival 2025.
 
-**Festival:** Copenhagen Light Festival 2025  
-**Dates:** January 31 - February 23, 2025  
+**Festival:** Copenhagen Light Festival 2026  
+**Dates:** January 31 - February 23, 2026  
 **Location:** Amager Bio, Copenhagen
 
 ## Concept
