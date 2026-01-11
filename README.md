@@ -1,6 +1,6 @@
 # Purple Rain
 
-An interactive audiovisual installation for Copenhagen Light Festival 2025.
+An interactive audiovisual installation for Copenhagen Light Festival 2026.
 
 **Festival:** Copenhagen Light Festival 2026  
 **Dates:** January 31 - February 23, 2026  
