@@ -56,7 +56,7 @@ OSCQUERY_PORT = 5678
 PRESENCE_PARAM_PATH = "/rnbo/inst/0/params/fadeTrig"
 
 # DMX channel to read for presence (1-indexed as per DMX convention)
-DMX_PRESENCE_CHANNEL = 1
+DMX_PRESENCE_CHANNEL = 20
 
 # Polling interval in seconds
 POLL_INTERVAL = 0.05  # 50ms - fast enough to catch DMX updates
